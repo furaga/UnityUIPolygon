@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Linq;
 
-namespace SegmentationTool
+namespace UIPolygon
 {
     public class UIPolygon : MaskableGraphic
     {
